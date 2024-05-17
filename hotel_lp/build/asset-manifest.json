@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00d415cb.css",
+    "main.js": "/static/js/main.6745d5cc.js",
+    "static/media/spa compound.jpg": "/static/media/spa compound.e16e2044b92516446a1a.jpg",
+    "static/media/spa1.jpg": "/static/media/spa1.78977a8bb50120d85472.jpg",
+    "static/media/spa contact us banner.jpg": "/static/media/spa contact us banner.3404fcb734ea5526bb2f.jpg",
+    "static/media/spa 3.jpg": "/static/media/spa 3.7e22013a614bc5a04753.jpg",
+    "static/media/spa 2.jpg": "/static/media/spa 2.c4053fcbcb1d1bac82a3.jpg",
+    "static/media/facial spa.jpg": "/static/media/facial spa.60f57b3c1f20f96582a6.jpg",
+    "static/media/thai foot massage.jpg": "/static/media/thai foot massage.139687879f6d22743e05.jpg",
+    "static/media/back massage.jpg": "/static/media/back massage.5390546fd625b0fdf2d7.jpg",
+    "static/media/benefits of spa.jpg": "/static/media/benefits of spa.69fe8efc948b7ffbee65.jpg",
+    "static/media/thai stone massage.jpg": "/static/media/thai stone massage.e35ade3f9bcce2038441.jpg",
+    "static/media/Image-bg.svg": "/static/media/Image-bg.f57620d693951ab56a3272aacde9fc6f.svg",
+    "index.html": "/index.html",
+    "static/media/black_bar.svg": "/static/media/black_bar.fb91c3306f342dfcfa8d4f963a74cf23.svg",
+    "main.00d415cb.css.map": "/static/css/main.00d415cb.css.map",
+    "main.6745d5cc.js.map": "/static/js/main.6745d5cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d415cb.css",
+    "static/js/main.6745d5cc.js"
+  ]
+}
